@@ -14,9 +14,6 @@ class App extends Component{
         }
     };
 
-
-
-
     formValues = values => {
         values.preventDefault();
         const formData = {};
